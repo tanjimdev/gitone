@@ -6,3 +6,4 @@ modified after staged
 modified after commit
 
 2nd mod
+3rd mod
