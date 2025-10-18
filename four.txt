@@ -1,0 +1,8 @@
+this is four\
+now modified
+
+modified after staged
+
+modified after commit
+
+2nd mod
